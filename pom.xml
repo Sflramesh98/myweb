@@ -8,23 +8,12 @@
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
-	<plugins>
-	        <plugin>
-	            <artifactId>maven-compiler-plugin</artifactId>
-	            <version>3.2</version>
-	            <configuration>
-	                <source>1.8</source>
-	                <target>1.8</target>
-	            </configuration>
-	        </plugin>
-       </plugins>
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.host.url>http://18.181.164.81:9000/</sonar.host.url>
 
 	</properties>
 	<dependencies>
-
 		
 		<dependency>
 			<groupId>junit</groupId>
