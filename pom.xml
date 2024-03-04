@@ -14,7 +14,7 @@
     		<maven.compiler.target>1.8</maven.compiler.target>
   
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://51.20.86.194:9000/</sonar.host.url>
+		<sonar.host.url>http://3.89.47.88:9000/</sonar.host.url>
 
 	</properties>
 	<dependencies>
